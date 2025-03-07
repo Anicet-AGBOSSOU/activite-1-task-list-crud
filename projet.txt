@@ -1,0 +1,10 @@
+GESTION DES TACHES
+    idTache
+    titreTache
+    description
+    responsable
+    statut
+    dateDebut 
+    dateEcheance
+    priorite
+    commentaire
